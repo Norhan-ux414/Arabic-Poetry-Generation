@@ -46,9 +46,10 @@ Main training settings:
 
 ## Text Generation
 
-After training, the model was tested with different prompts such as:
+After training, the model was tested with different prompts such as:    
 
-                                                                                                                                                             - يا قلب
+
+- يا قلب      
 Example:
 
 generate_poem("يا قلب ") 
